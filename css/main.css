@@ -1,0 +1,30 @@
+h1 {
+	color: rgb(0, 255, 0);
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h2 {
+	color: rgb(0, 0, 255);
+	font-family: sans-serif;
+	text-align: center;
+	
+}
+
+p {
+	color: rgb(255,0,0);
+	font-family: sans-serif;
+	border: 2px dashed black;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+#johnpork {
+	margin-left: 500px;
+}
+
+button {
+	color: rgb(24, 128, 20);
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	object-position: center;
+}
