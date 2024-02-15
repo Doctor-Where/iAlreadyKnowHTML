@@ -1,6 +1,6 @@
-var count = 0;
+var count = 1;
 
 function onCounterClick() {
-    count += 1;
+    count *= 2;
     document.getElementById("counter").textContent = "Counter: " + count;
 }

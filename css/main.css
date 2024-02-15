@@ -1,5 +1,6 @@
 body {
-	border: rgb(90, 134, 101)
+	border: 5px solid rgb(90, 134, 101);
+	background-color: rgb(113, 219, 166);
 }
 
 h1 {
@@ -18,17 +19,18 @@ h2 {
 p {
 	color: rgb(95, 112, 35);
 	font-family: sans-serif;
-	border: 2px dashed black;
+	border: 3px solid rgb(90, 134, 101);
 	margin-left: 500px;
 	margin-right: 500px;
 }
 #johnpork {
 	margin-left: 500px;
+	border: 3px solid rgb(90, 134, 101);
 }
 
 button {
 	color: rgb(24, 128, 20);
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	text-align: center;
-	object-position: center;
+	margin-left: 500px;
 }
