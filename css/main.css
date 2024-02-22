@@ -1,35 +1,31 @@
 body {
-	border: 5px solid rgb(90, 134, 101);
-	background-color: rgb(113, 219, 166);
+	border: 5px solid rgb(55, 83, 62);
+	background-color: rgb(24, 48, 36);
 }
 
 h1 {
-	color: rgb(0, 46, 0);
+	color: rgb(118, 255, 118);
 	font-family: sans-serif;
 	text-align: center;
 }
 
 h2 {
-	color: rgb(0, 100, 30);
+	color: rgb(84, 201, 119);
 	font-family: sans-serif;
 	text-align: center;
 	
 }
 
 p {
-	color: rgb(95, 112, 35);
+	color: rgb(43, 167, 74);
 	font-family: sans-serif;
 	border: 3px solid rgb(90, 134, 101);
 	margin-left: 500px;
 	margin-right: 500px;
 }
-#johnpork {
-	margin-left: 500px;
-	border: 3px solid rgb(90, 134, 101);
-}
 
 button {
-	color: rgb(24, 128, 20);
+	color: rgb(69, 214, 64);
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	text-align: center;
 	margin-left: 500px;
