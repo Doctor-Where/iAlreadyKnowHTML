@@ -1,32 +1,37 @@
 body {
-	border: 5px solid rgb(55, 83, 62);
-	background-color: rgb(24, 48, 36);
+	border: 5px solid rgb(55, 74, 83);
+	background-color: rgb(24, 36, 48);
 }
 
 h1 {
-	color: rgb(118, 255, 118);
+	color: rgb(118, 223, 255);
 	font-family: sans-serif;
 	text-align: center;
 }
 
 h2 {
-	color: rgb(84, 201, 119);
+	color: rgb(84, 154, 201);
 	font-family: sans-serif;
 	text-align: center;
 	
 }
 
 p {
-	color: rgb(43, 167, 74);
+	color: rgb(43, 138, 167);
 	font-family: sans-serif;
-	border: 3px solid rgb(90, 134, 101);
+	border: 3px solid rgb(90, 125, 134);
 	margin-left: 500px;
 	margin-right: 500px;
 }
 
 button {
-	color: rgb(69, 214, 64);
+	color: rgb(64, 166, 214);
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	text-align: center;
 	margin-left: 500px;
+}
+
+#pfp
+{
+	
 }
