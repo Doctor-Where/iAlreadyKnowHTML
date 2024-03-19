@@ -24,14 +24,51 @@ p {
 	border: 3px solid rgb(90, 125, 134);
 	padding: 20px;
 	margin: 2%;
-	display: inline-block;
+	display: block;
+}
+
+a {
+	color: rgb(43, 138, 167);
+	background-color: rgb(42, 62, 71);
+	font-family: sans-serif;
+	border: 3px solid rgb(90, 125, 134);
+	padding: 20px;
+	margin: 2%;
+	display:block;
 }
 
 button {
 	color: rgb(64, 166, 214);
 	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	text-align: center;
-	margin: 5px;
+	padding: 5px;
+	display:block;
+	margin-left:50px;
+
+	border: 3px solid rgb(90, 125, 134);
+	background-color: rgb(42, 62, 71);
+}
+
+button:hover {
+	color: rgb(64, 166, 214);
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	padding: 5px;
+	margin-left:50px;
+
+	border: 3px solid rgb(90, 125, 134);
+	background-color: rgb(31, 47, 54);
+}
+
+button:active {
+	color: rgb(64, 166, 214);
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	padding: 5px;
+	margin-left:50px;
+
+	border: 3px solid rgb(90, 125, 134);
+	background-color: rgb(53, 121, 150);
 }
 
 #pfp
